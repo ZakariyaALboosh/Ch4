@@ -1,0 +1,36 @@
+\documentclass{report}
+\usepackage{graphicx}
+\graphicspath{{chapter4_sx_sim/results/overleaf_figures/}}
+
+\begin{document}
+\chapter{S-Band and X-Band Ground-Station Extensions}
+
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{designworkflow.png}\caption{Design workflow.}\label{fig:design-workflow}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_3_orbit_3d_scenario.png}\caption{Three-dimensional satellite scenario showing the propagated orbit and the ground-station location. When Satellite Communications Toolbox support is unavailable, the generated figure is explicitly labelled as a synthetic representative orbit.}\label{fig:orbit_3d}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_4_ground_track.png}\caption{Satellite ground track and station location. Synthetic fallback output is labelled in the generated MATLAB figure.}\label{fig:ground_track}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_5_access_visibility.png}\caption{Visible pass/access interval above the minimum elevation mask. Synthetic fallback output is labelled in the generated MATLAB figure.}\label{fig:access}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_6_elevation_vs_time.png}\caption{Elevation angle versus time for the selected pass.}\label{fig:elevation_time}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_7_azimuth_vs_time.png}\caption{Azimuth angle versus time for the selected pass.}\label{fig:azimuth_time}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_8_slant_range_vs_time.png}\caption{Slant range versus time for the selected pass.}\label{fig:range_time}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_9_azimuth_rate_vs_time.png}\caption{Azimuth rate versus time, with the assumed rotator rate limit shown as a horizontal reference line.}\label{fig:azimuth_rate}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_10_elevation_rate_vs_time.png}\caption{Elevation rate versus time, with the assumed rotator rate limit shown as a horizontal reference line.}\label{fig:elevation_rate}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.6\textwidth]{fig4_11_sband_block_diagram.png}\caption{Proposed S-band receiving chain, from the LEO satellite to the recorded or decoded data.}\label{fig:sband_block}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_12_sband_reflector_geometry.png}\caption{MATLAB Antenna Toolbox model geometry of the selected reflector with helix feed, or an explicitly labelled analytical approximation if the toolbox simulation is unavailable.}\label{fig:sband_geometry}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_13_sband_3d_pattern.png}\caption{S-band three-dimensional radiation pattern from Antenna Toolbox, or an explicitly labelled analytical approximation if full-wave simulation is unavailable.}\label{fig:sband_3d_pattern}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_14_sband_pattern_cut.png}\caption{S-band elevation-plane radiation pattern cut from Antenna Toolbox, or an explicitly labelled analytical approximation if full-wave simulation is unavailable.}\label{fig:sband_pattern_cut}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_15_sband_received_power_vs_time.png}\caption{S-band received power versus time over the selected pass.}\label{fig:sband_prx}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_16_sband_link_margin_vs_time.png}\caption{S-band nominal and adverse link margins versus time over the selected pass. The horizontal 0 dB line indicates the minimum usable-link threshold.}\label{fig:sband_margin}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_17_sband_cumulative_data_vs_time.png}\caption{Cumulative received data versus time over the selected pass.}\label{fig:sband_data}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.8\textwidth]{fig4_18_selected_sband_design.png}\caption{Selected S-band ground-station extension.}\label{fig:sband_selected}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.6\textwidth]{fig4_19_xband_block_diagram.png}\caption{Proposed X-band receiving chain, from the LEO satellite to the recorded or decoded payload data.}\label{fig:xband_block}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_20_xband_reflector_geometry.png}\caption{MATLAB Antenna Toolbox model geometry of the selected reflector with horn feed, or an explicitly labelled analytical approximation if the toolbox simulation is unavailable.}\label{fig:xband_geometry}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_21_xband_3d_pattern.png}\caption{X-band three-dimensional radiation pattern from Antenna Toolbox, or an explicitly labelled analytical approximation if full-wave simulation is unavailable.}\label{fig:xband_3d_pattern}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_22_xband_pattern_cut.png}\caption{X-band elevation-plane radiation pattern cut from Antenna Toolbox, or an explicitly labelled analytical approximation if full-wave simulation is unavailable.}\label{fig:xband_pattern_cut}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.7\textwidth]{fig4_23_xband_pointing_loss.png}\caption{X-band pointing loss as a function of angular error.}\label{fig:xband_pointing_loss}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_24_xband_doppler_vs_time.png}\caption{X-band Doppler shift versus time over the selected pass.}\label{fig:xband_doppler}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_25_xband_received_power_vs_time.png}\caption{X-band received power versus time over the selected pass.}\label{fig:xband_prx}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_26_xband_link_margin_vs_time.png}\caption{X-band nominal and adverse link margins versus time over the selected pass. The horizontal 0 dB line indicates the minimum usable-link threshold.}\label{fig:xband_margin}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.75\textwidth]{fig4_27_xband_cumulative_data_vs_time.png}\caption{Cumulative received payload data versus time over the selected pass.}\label{fig:xband_data}\end{figure}
+\begin{figure}[htbp]\centering\includegraphics[width=0.8\textwidth]{fig4_28_selected_xband_design.png}\caption{Selected X-band ground-station extension.}\label{fig:xband_selected}\end{figure}
+
+\end{document}
