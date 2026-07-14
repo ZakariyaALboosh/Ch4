@@ -12,18 +12,21 @@ cfg.output.runOptionalAntenna = true;
 % updated if a final survey of the Zawiya station site is available.
 cfg.gs.name = "Zawiya Ground Station";
 cfg.gs.latDeg = 32.75;
-cfg.gs.lonDeg = 12.72;
+cfg.gs.lonDeg = 12.73;
 cfg.gs.altM = 20;
-cfg.gs.minElevationDeg = 15;
+cfg.gs.minElevationDeg = 10;
 
 cfg.orbit.altitudeM = 500e3;
 cfg.orbit.inclinationDeg = 51.6;
 cfg.orbit.raanDeg = 0;
 cfg.orbit.argumentOfPerigeeDeg = 0;
 cfg.orbit.trueAnomalyDeg = 0;
-cfg.orbit.startTimeUTC = datetime(2026,7,13,0,0,0,"TimeZone","UTC");
+cfg.orbit.startTimeUTC = datetime(2026,7,14,0,0,0,"TimeZone","UTC");
 cfg.orbit.durationHours = 24;
 cfg.orbit.sampleTimeSec = 5;
+cfg.orbit.tleName = 'GRBBETA';
+cfg.orbit.tleLine1 = '1 60237U 24128C   26195.16407140  .00001802  00000-0  13324-3 0  9998';
+cfg.orbit.tleLine2 = '2 60237  61.9897 121.6054 0037194 140.4046 219.9774 15.06804555110338';
 cfg.orbit.rotatorLimitDegPerSec = 6;
 % Synthetic fallback assumptions for a representative LEO pass only.
 cfg.orbit.syntheticDurationSec = 780;
