@@ -1,7 +1,7 @@
 function save_plot(figHandle, filenameBase, outputConfig)
 filenameBase = string(filenameBase);
 if contains(filenameBase,'.'), error('save_plot:ExtensionNotAllowed','filenameBase must not contain an extension.'); end
-set(figHandle,'Color','w'); axs = findall(figHandle,'Type','axes');
+set(figHandle,'Color','w','Units','pixels','Position',[100 100 900 600]); axs = findall(figHandle,'Type','axes');
 for k=1:numel(axs), grid(axs(k),'on'); set(axs(k),'FontSize',11); end
 parentDir = fileparts(filenameBase); if ~isempty(parentDir) && ~exist(parentDir,'dir'), mkdir(parentDir); end
 if outputConfig.savePng
