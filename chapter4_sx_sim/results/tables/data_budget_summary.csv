@@ -1,0 +1,5 @@
+Band,Environment,Usable_Time_s,Data_per_Pass_MB,Assumed_Passes_per_Day,Data_per_Day_MB,Example_Image_Size_MB,Images_per_Pass,Images_per_Day
+S-band,nominal,350,43.75,4,175,6,7,29
+S-band,adverse,350,43.75,4,175,6,7,29
+X-band,nominal,350,218.75,4,875,6,36,145
+X-band,adverse,350,218.75,4,875,6,36,145

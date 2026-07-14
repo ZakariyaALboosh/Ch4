@@ -1,0 +1,3 @@
+Band,Frequency_GHz,Maximum_Positive_Doppler_Hz,Maximum_Negative_Doppler_Hz,Maximum_Absolute_Doppler_Hz,Peak_to_Peak_Doppler_Hz,Doppler_at_Closest_Approach_Hz
+S-band,2.25,45191.4271394348,-45161.5333679986,45191.4271394348,90352.9605074334,378.084086865313
+X-band,8.2,164697.645574829,-164588.699385595,164697.645574829,329286.344960424,1377.90644990914

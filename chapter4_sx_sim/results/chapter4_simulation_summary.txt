@@ -1,0 +1,23 @@
+Simulation source for pass geometry: satelliteScenario
+
+S-band selected dish diameter: 1.20 m
+S-band calculated gain: 25.57 dBi
+S-band HPBW: 7.77 deg
+S-band selected receiver NF: 1.30 dB
+S-band selected receiver equivalent noise temperature: 101.4 K
+S-band maximum absolute Doppler: 45191.4 Hz
+S-band nominal usable pass time: 350.0 s
+S-band nominal data per pass: 43.75 MB
+S-band nominal minimum design margin: 16.57 dB
+
+X-band selected dish diameter: 1.20 m
+X-band calculated gain: 37.67 dBi
+X-band HPBW: 2.13 deg
+X-band selected receiver NF: 1.50 dB
+X-band selected receiver equivalent noise temperature: 119.6 K
+X-band maximum absolute Doppler: 164697.6 Hz
+X-band nominal usable pass time: 350.0 s
+X-band nominal data per pass: 218.75 MB
+X-band nominal minimum design margin: 12.03 dB
+
+These results are preliminary design simulations based on simplified assumptions and datasheet-level values. They are not experimental verification of a constructed S-band or X-band station.

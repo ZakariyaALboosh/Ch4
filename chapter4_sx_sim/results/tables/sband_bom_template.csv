@@ -1,0 +1,11 @@
+Band,Item,Selected_Model,Function,Quantity,Estimated_Unit_Cost,Estimated_Total_Cost,Status,Notes
+S-band,Dish or reflector,TBD,Dish or reflector,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Helix feed,TBD,Helix feed,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Band-pass filter,TBD,Band-pass filter,1,TBD,TBD,Template,Editable; not final procurement
+S-band,LNA,TBD,LNA,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Bias tee,TBD,Bias tee,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Coaxial cable,TBD,Coaxial cable,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Rotator,TBD,Rotator,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Rotator controller,TBD,Rotator controller,1,TBD,TBD,Template,Editable; not final procurement
+S-band,bladeRF x40,TBD,bladeRF x40,1,TBD,TBD,Template,Editable; not final procurement
+S-band,Raspberry Pi or computer,TBD,Raspberry Pi or computer,1,TBD,TBD,Template,Editable; not final procurement

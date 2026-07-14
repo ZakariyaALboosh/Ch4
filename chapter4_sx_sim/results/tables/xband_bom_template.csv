@@ -1,0 +1,14 @@
+Band,Item,Selected_Model,Function,Quantity,Estimated_Unit_Cost,Estimated_Total_Cost,Status,Notes
+X-band,Solid dish,TBD,Solid dish,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Horn feed,TBD,Horn feed,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Polarizer or OMT,TBD,Polarizer or OMT,1,TBD,TBD,Template,Editable; not final procurement
+X-band,X-band filter,TBD,X-band filter,1,TBD,TBD,Template,Editable; not final procurement
+X-band,X-band LNB or LNA,TBD,X-band LNB or LNA,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Downconverter,TBD,Downconverter,1,TBD,TBD,Template,Editable; not final procurement
+X-band,IF filter,TBD,IF filter,1,TBD,TBD,Template,Editable; not final procurement
+X-band,IF amplifier,TBD,IF amplifier,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Bias tee or power supply,TBD,Bias tee or power supply,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Waveguide or coax,TBD,Waveguide or coax,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Rotator,TBD,Rotator,1,TBD,TBD,Template,Editable; not final procurement
+X-band,bladeRF x40,TBD,bladeRF x40,1,TBD,TBD,Template,Editable; not final procurement
+X-band,Raspberry Pi or computer,TBD,Raspberry Pi or computer,1,TBD,TBD,Template,Editable; not final procurement

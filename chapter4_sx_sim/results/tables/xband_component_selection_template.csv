@@ -1,0 +1,14 @@
+Subsystem,Component_Function,Candidate_Model,Manufacturer,Frequency_Range,Gain_or_Loss_dB,Noise_Figure_dB,Power_Requirement,Connector,Estimated_Cost,Availability,Selected_Yes_No,Reason_for_Selection,Datasheet_Link_or_Source,Notes
+Receive chain,Solid dish,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Horn feed,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Polarizer or OMT,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,X-band filter,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,X-band LNB or LNA,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Downconverter,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,IF filter,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,IF amplifier,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Bias tee or power supply,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Waveguide or coax,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Rotator,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,bladeRF x40,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Raspberry Pi or computer,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet

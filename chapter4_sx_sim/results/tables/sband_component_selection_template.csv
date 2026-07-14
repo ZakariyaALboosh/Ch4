@@ -1,0 +1,11 @@
+Subsystem,Component_Function,Candidate_Model,Manufacturer,Frequency_Range,Gain_or_Loss_dB,Noise_Figure_dB,Power_Requirement,Connector,Estimated_Cost,Availability,Selected_Yes_No,Reason_for_Selection,Datasheet_Link_or_Source,Notes
+Receive chain,Dish or reflector,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Helix feed,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Band-pass filter,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,LNA,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Bias tee,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Coaxial cable,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Rotator,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Rotator controller,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,bladeRF x40,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet
+Receive chain,Raspberry Pi or computer,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Editable preliminary worksheet

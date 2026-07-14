@@ -1,0 +1,4 @@
+Band,Pre_LNA_Loss_dB,Total_Gain_dB,Total_Noise_Figure_dB,Equivalent_Noise_Temperature_K
+X-band,0,39,1.20008530111772,92.3019630183
+X-band,0.5,38.5,1.70008530111772,138.949857622399
+X-band,2,37,3.20008530111772,315.907778652224

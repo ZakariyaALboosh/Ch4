@@ -6,7 +6,7 @@ function cfg = config_chapter4()
 cfg.output.savePng = true;
 cfg.output.savePdf = true;
 cfg.output.figureVisible = "off";
-cfg.output.runOptionalAntenna = true;
+cfg.output.runOptionalAntenna = false;
 
 % Editable preliminary site values: coordinates and altitude should be
 % updated if a final survey of the Zawiya station site is available.
